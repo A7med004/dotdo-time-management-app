@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand:wght@400;700&display=swap');
+
+@layer base {
+  html {
+    font-family: 'Patrick Hand', cursive;
+    font-weight: 700;
+  }
+}
+
+/* Custom styles for the Patrick Hand font */
+.font-cal {
+  font-family: 'Patrick Hand', cursive;
+  font-weight: 700;
+}
+
+/* Apply Patrick Hand to specific elements */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Patrick Hand', cursive;
+  font-weight: 700;
+}
+
+/* Optional: Add some custom styling for the Patrick Hand font */
+.cal-sans-text {
+  letter-spacing: 0.02em;
+  font-size: 1.1em;
+  font-weight: 700;
+} 
