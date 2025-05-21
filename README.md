@@ -40,5 +40,3 @@ Under the supervision of **Dr. Hassan Eldeeb**, this project was developed by:
 - **Mohammed Yasser Abdulhamid**  
 - **Abdulrahman Mohammed Shaheen**
 
-## 📂 Project Structure
-
