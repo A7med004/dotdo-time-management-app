@@ -1,71 +1,44 @@
-# MERN Todo List Application
+# DotDo – Smart To-Do & Productivity App 📝⏰
 
-A full-stack Todo List application built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
+DotDo is a full-stack productivity web application designed to help users manage daily tasks, stay focused, and boost efficiency. The app combines essential productivity tools—like a to-do list, memo board, Pomodoro timer, and an AI chatbot—into one simple and intuitive interface.
 
-## Features
+## 🚀 Features
 
-- Create, read, update, and delete todos
-- Mark todos as complete/incomplete
-- Clean and modern UI
-- Real-time updates
-- Responsive design
+- ✅ **To-Do List** – Organize and manage your daily tasks with ease.
+- 🧠 **Memo Board** – Jot down ideas, notes, or reminders for better mental clarity.
+- ⏳ **Pomodoro Timer** – Stay focused and work in productive intervals.
+- 🤖 **Chatbot Assistant** – Interact with a smart bot to create tasks, add memos, and review upcoming items.
 
-## Project Structure
+## 🛠 Tech Stack
 
-```
-todo-app/
-├── client/          # React frontend
-├── server/          # Node.js backend
-└── README.md
-```
+### 🔹 Frontend:
+- React.js
+- Tailwind CSS
+- Axios
+- React Router
 
-## Setup Instructions
+### 🔹 Backend:
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JWT Authentication
 
-### Backend Setup
-1. Navigate to the server directory:
-   ```bash
-   cd server
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Create a .env file and add your MongoDB connection string:
-   ```
-   MONGODB_URI=your_mongodb_connection_string
-   PORT=5000
-   ```
-4. Start the server:
-   ```bash
-   npm start
-   ```
+### 🧩 Architecture:
+- MVC Pattern
+- RESTful APIs
 
-### Frontend Setup
-1. Navigate to the client directory:
-   ```bash
-   cd client
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the development server:
-   ```bash
-   npm start
-   ```
+## 👥 Team Members
 
-## Technologies Used
+Under the supervision of **Dr. Hassan Eldeeb**, this project was developed by:
 
-- Frontend:
-  - React.js
-  - Axios
-  - Tailwind CSS
-  - React Icons
+- **Ahmed Osama Munir Khader**  
+- **Ahmed Ibrahim Elshenawy**  
+- **Ahmed Abo Hussien Selim**  
+- **Abdulrahman Elsayed Fathallah**  
+- **Malek Sobhy Mesbah**  
+- **Mohammed Yasser Abdulhamid**  
+- **Abdulrahman Mohammed Shaheen**
 
-- Backend:
-  - Node.js
-  - Express.js
-  - MongoDB
-  - Mongoose
-  - Cors
-  - Dotenv 
+## 📂 Project Structure
+
